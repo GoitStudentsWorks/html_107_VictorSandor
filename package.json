@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-WristWatch/",
+    "build": "vite build --base=/html_107_VictorSandor/",
     "preview": "vite preview"
   },
   "devDependencies": {
